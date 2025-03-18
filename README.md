@@ -1,1 +1,2 @@
 # MyFirstMicrogame
+My microgame was an FPS game that I made with the help of tutorials on Unity Editor. A robot is being controlled by the player, and they are holding a special gun (it looks like it is straight out of a sci-fi movie). The player is supposed to shoot at enemy robots without getting killed by them. There are also floating health regenerators, so if you walk through them, you will regain any lost health. 
